@@ -1,7 +1,7 @@
 VERSION = 3
 PATCHLEVEL = 16
 SUBLEVEL = 2
-EXTRAVERSION =
+EXTRAVERSION = -mmagin-c720
 NAME = Museum of Fishiegoodies
 
 # *DOCUMENTATION*
